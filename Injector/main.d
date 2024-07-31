@@ -149,5 +149,5 @@ void main(string[] args) {
         return;
     }
     
-    writefln("[+] Injection Successful!");
+    writeln("[+] Injection Successful!");
 }
